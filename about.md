@@ -12,7 +12,7 @@ Rachel graduated from [Texas A&M University](https://tamu.edu) in 2021 with a Ba
 
 Rachel has experience in project management and data analytics, a versatile combination that lends itself well towards a wide variety of roles. Her experience in the energy industry has given her a keen awareness of the issues facing the electric grid and a desire to make things run that much better. She has an eye for detail and a passion for weaving stories out of data.
 
-In her spare time, Rachel enjoys studying Japanese, data science, and frontend web dev. She also likes reading, hiking, house music, and sipping coffee at comfy cafés.
+In her spare time, Rachel enjoys studying Japanese, data science, and frontend web dev. She also likes reading, hiking, and large bowls of noodle soup.
 
 **connect**
 
