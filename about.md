@@ -2,10 +2,10 @@
 title: about
 permalink: /about/
 layout: page
-excerpt: 
+excerpt: about me & background
 comments: false
 ---
-![Rachel Beaulac on the Oregon Coast](/assets/img/headshot.jpg){: style="float: right" height="50%" width="50%"}
+![Rachel Beaulac on the Oregon Coast](/assets/img/headshot.jpg){: style="center" height="50%" width="50%"}
 <!-- <img src="https://noodlesoup.online/assets/img/headshot.jpg" width=50% height=50%> -->
 
 Rachel graduated from [Texas A&M University](https://tamu.edu) in 2021 with a Bachelor of Science in Industrial Engineering. Since then, she's worked for [CPS Energy](https://cpsenergy.com) as an Engineering Associate and [Enersponse](https://enersponse.com) as an Energy Markets Analyst.
