@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: about
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
+Rachel graduated from [Texas A&M University](https://tamu.edu) in 2021 with a Bachelor of Science in Industrial Engineering. Since then, she's worked for [CPS Energy](https://cpsenergy.com) as an Engineering Associate and [Enersponse](https://enersponse.com) as an Energy Markets Analyst.
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Rachel has experience in project management and data analytics, a versatile combination that lends itself well towards a wide variety of roles. Her experience in the energy industry has given her a keen awareness of the issues facing the electric grid and a desire to make things run that much better. She has an eye for detail and a passion for weaving stories out of data.
 
-If you have a question about him or else, just send a letter to him.
+In her spare time, Rachel enjoys studying Japanese, data science, and frontend web dev. She also likes reading, hiking, house music, and sipping coffee at comfy cafés.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**connect**
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [email](mailto:rachelbeaulac@protonmail.com)
+- [github](https://github.com/noodleswoop)
+- [vsco](https://vsco.co/soupenjoyer)
