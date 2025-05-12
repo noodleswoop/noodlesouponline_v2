@@ -5,7 +5,7 @@ layout: page
 excerpt: about me & background
 comments: false
 ---
-![Rachel Beaulac on the Oregon Coast](/assets/img/headshot.jpg){:height="50%" width="50%" style="display: block; margin: 0 auto" border-radius:"5px"}
+![Rachel Beaulac on the Oregon Coast](/assets/img/headshot.jpg){:height="50%" width="50%" style="display: block; margin: 0 auto"}
 <!-- <img src="https://noodlesoup.online/assets/img/headshot.jpg" width=50% height=50%> -->
 
 Rachel graduated from [Texas A&M University](https://tamu.edu) in 2021 with a Bachelor of Science in Industrial Engineering. Since then, she's worked for [CPS Energy](https://cpsenergy.com) as an Engineering Associate and [Enersponse](https://enersponse.com) as an Energy Markets Analyst.
@@ -17,5 +17,6 @@ In her spare time, Rachel enjoys studying Japanese, data science, and frontend w
 **connect**
 
 - [email](mailto:rachelbeaulac@protonmail.com)
+- [linkedin](https://linkedin.com/in/rachel-beaulac)
 - [github](https://github.com/noodleswoop)
 - [vsco](https://vsco.co/soupenjoyer)
